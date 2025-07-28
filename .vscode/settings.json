@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "tokyo"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
